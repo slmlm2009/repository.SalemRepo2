@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.SalemRepo" name="[COLOR limegreen][B]Salem[/B][/COLOR]Repo" version="0.2" provider-name="slmlm2009">
+    <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]Salem[/B][/COLOR]Repo">    
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta/repo/zips/</datadir>
+        </dir>
+    </extension>
+    
+    <extension point="xbmc.addon.metadata">
+        <summary>[COLOR limegreen][B]Salem[/B][/COLOR]Repo</summary>
+        <description>The official home of [COLOR limegreen][B]Salem[/B][/COLOR]Repo.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+        <source>https://www.github.com/slmlm2009/repository.SalemRepo2/</source>
+    </extension>
+</addon>

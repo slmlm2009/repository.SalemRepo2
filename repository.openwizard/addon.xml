@@ -7,9 +7,9 @@
             <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/leia/zips/</datadir>
         </dir>
         <dir minversion="18.9.0">
-            <info compressed="false">https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta2/matrix/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta2/matrix/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/slmlm2009/repository.SalemRepo2/beta2/matrix/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/a4k-openproject/repository.openwizard/master/matrix/zips/</datadir>
         </dir>
     </extension>
     
@@ -22,6 +22,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
-        <source>https://www.github.com/slmlm2009/repository.SalemRepo2/beta2</source>
+        <source>https://www.github.com/a4k-openproject/repository.openwizard/</source>
     </extension>
 </addon>

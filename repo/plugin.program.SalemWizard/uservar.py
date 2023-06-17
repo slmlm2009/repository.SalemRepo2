@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR limegreen][B]Salem[/B][/COLOR]Wizard'
 BUILDERNAME = 'SalemWizard'
 EXCLUDES = [ADDON_ID, 'repository.SalemWizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'http://'
+BUILDFILE = 'https://archive.org/download/builds_20230617/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
